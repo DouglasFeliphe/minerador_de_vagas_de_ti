@@ -14,7 +14,7 @@ Isso ajudaria tanto pessoas da área de TI quanto pessoas leigas, que muitas ves
 **Para receber as vagas**
 <br>
 <p>
-Para receber as vagas em seu computador ou dispositivo móvel, basta entrar no canal https://t.me/canal_vagas_de_estagio_ti
+basta entrar no canal https://t.me/canal_vagas_de_estagio_ti para receber as vagas em seu computador ou dispositivo móvel, 
   </p>
   
 
