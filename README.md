@@ -1,4 +1,4 @@
-# minerador de vagas de emprego e estágio em TI
+# Minerador de vagas de emprego e estágio em TI
 <br>
 <p>
 Sistema de centralização de vagas de estágio e emprego na área de TI. 
